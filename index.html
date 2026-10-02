@@ -3,72 +3,152 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="description" content="About Ishan Verma — a B.Tech Computer Science student, aspiring software engineer, and AI/ML enthusiast." />
+    <meta
+      name="description"
+      content="Ishan Verma is a full-stack developer and AI enthusiast building useful web applications and software projects."
+    />
     <meta name="theme-color" content="#0b1120" />
-    <title>About — Ishan Verma</title>
+    <title>Ishan Verma — Developer Portfolio</title>
     <link rel="stylesheet" href="styles.css" />
   </head>
-  <body id="page-top">
+  <body>
     <header class="site-header">
       <nav class="navbar page-width" id="navbar" aria-label="Main navigation">
-        <a class="brand" href="#page-top" aria-label="Back to top">IV<span>.</span></a>
+        <a class="brand" href="#welcome-section" aria-label="Ishan Verma, home">IV<span>.</span></a>
         <div class="nav-links">
-          <a href="index.html">Home</a>
-          <a href="about.html" aria-current="page">About</a>
+          <a href="#welcome-section" aria-current="page">Home</a>
+          <a href="about.html">About</a>
           <a href="projects.html">Projects</a>
           <a href="experience.html">Experience</a>
           <a href="contact.html">Contact</a>
         </div>
       </nav>
     </header>
+
     <main>
-      <section class="page-hero" aria-labelledby="page-title">
-        <div class="page-width page-hero-inner">
-          <p class="section-kicker">About me / 01</p>
-          <h1 id="page-title">A builder’s mindset,<br /><span>a learner’s curiosity.</span></h1>
-          <p class="page-hero-copy">I’m Ishan Verma, a B.Tech Computer Science &amp; Engineering student and aspiring software engineer. I like turning ideas into useful, approachable software.</p>
+      <section class="welcome-section" id="welcome-section" aria-labelledby="welcome-title">
+        <div class="hero-glow hero-glow-one" aria-hidden="true"></div>
+        <div class="hero-glow hero-glow-two" aria-hidden="true"></div>
+        <div class="hero-content">
+          <div class="avatar-frame">
+            <img
+              class="avatar"
+              src="https://avatars.githubusercontent.com/u/259662372?v=4"
+              alt="Ishan Verma"
+              width="144"
+              height="144"
+            />
+            <span class="avatar-status" aria-label="Open to connect"></span>
+          </div>
+          <p class="eyebrow"><span class="status-dot"></span> Developer · Learner · Builder</p>
+          <h1 id="welcome-title">Hi, I’m <span>Ishan Verma</span></h1>
+          <p class="hero-role">Aspiring Software Engineer <span aria-hidden="true">|</span> Full-Stack Developer <span aria-hidden="true">|</span> AI / ML Enthusiast</p>
+          <p class="hero-summary">B.Tech CSE student building useful software and growing through hands-on projects, training and internships.</p>
+          <div class="hero-actions">
+            <a class="button button-primary" href="#project-section">View my work <span aria-hidden="true">↓</span></a>
+            <a class="button button-secondary" href="#contact-section">Get in touch <span aria-hidden="true">↗</span></a>
+          </div>
+          <div class="hero-stats" aria-label="Areas of focus">
+            <div class="stat"><span class="stat-icon" aria-hidden="true">⌘</span><span class="stat-value">10+</span><span class="stat-label">Projects</span></div>
+            <span class="stat-divider" aria-hidden="true"></span>
+            <div class="stat"><span class="stat-icon" aria-hidden="true">▤</span><span class="stat-value">Full Stack</span><span class="stat-label">Web development</span></div>
+            <span class="stat-divider" aria-hidden="true"></span>
+            <div class="stat"><span class="stat-icon" aria-hidden="true">✳</span><span class="stat-value">AI / ML</span><span class="stat-label">Always learning</span></div>
+          </div>
+        </div>
+        <a class="scroll-cue" href="#about-section" aria-label="Scroll to about section"><span></span>Scroll to explore</a>
+      </section>
+
+      <section class="content-section about-section" id="about-section" aria-labelledby="about-title">
+        <div class="section-heading">
+          <p class="section-kicker">A little about me</p>
+          <h2 id="about-title">Curious by nature.<br /><span>Driven to build.</span></h2>
+        </div>
+        <div class="about-layout">
+          <div class="about-copy">
+            <p class="lead-copy">I’m a Computer Science &amp; Engineering student with a passion for full-stack development and artificial intelligence.</p>
+            <p>My earlier studies in Civil Engineering gave me a different perspective on problem-solving. Today, I use that same curiosity to make responsive, user-focused applications and explore practical machine-learning ideas.</p>
+            <p>I’m growing my skills in Python, C/C++, machine learning, software development, data structures and algorithms, and SQL.</p>
+            <a class="text-link" href="about.html">A little more about me <span aria-hidden="true">↗</span></a>
+            <a class="text-link secondary-text-link" href="experience.html">Training &amp; certificates <span aria-hidden="true">↗</span></a>
+          </div>
+          <div class="about-cards">
+            <article class="info-card"><span class="info-icon" aria-hidden="true">⌘</span><h3>Frontend</h3><p>React, JavaScript, Tailwind CSS, HTML &amp; CSS</p></article>
+            <article class="info-card"><span class="info-icon" aria-hidden="true">⚙</span><h3>Backend</h3><p>Node.js, Python, Java and REST APIs</p></article>
+            <article class="info-card"><span class="info-icon" aria-hidden="true">✳</span><h3>AI &amp; ML</h3><p>NLP foundations and machine learning projects</p></article>
+            <article class="info-card"><span class="info-icon" aria-hidden="true">↗</span><h3>Tools</h3><p>Git, Vite, ESLint, VS Code and Vercel</p></article>
+          </div>
         </div>
       </section>
-      <section class="page-content page-width">
-        <div class="about-page-grid">
-          <article class="page-panel story-panel">
-            <p class="section-kicker">My path</p>
-            <h2>From civil engineering to computer science</h2>
-            <p>My earlier studies in Civil Engineering trained me to look at problems from different angles. I’m now pursuing Computer Science &amp; Engineering and building on that foundation through software projects, practical training, and steady experimentation.</p>
-            <p>I’m especially interested in full-stack development, applied AI/ML, the web and system design. I enjoy learning how a product works end to end: shaping the experience, building the interface, and connecting it to the logic behind it.</p>
-            <p>This portfolio brings together the projects and learning experiences that mark that journey so far.</p>
-            <blockquote class="dev-quote">“I write code, break code, fix code, and occasionally wonder why I wrote it in the first place.”</blockquote>
-            <a class="button button-secondary" href="experience.html">See my training &amp; certificates <span aria-hidden="true">→</span></a>
-          </article>
-          <aside class="page-panel education-panel" aria-labelledby="education-title">
-            <p class="section-kicker">Education</p>
-            <h2 id="education-title">The foundation</h2>
-            <div class="education-entry">
-              <span class="timeline-dot" aria-hidden="true"></span>
-              <div><h3>B.Tech, Computer Science &amp; Engineering</h3><p>Currently pursuing · Focused on software and computing</p></div>
-            </div>
-            <div class="education-entry">
-              <span class="timeline-dot timeline-dot-muted" aria-hidden="true"></span>
-              <div><h3>Polytechnic Diploma, Civil Engineering</h3><p>A different lens on structure, systems and problem-solving</p></div>
-            </div>
-          </aside>
+
+      <section class="content-section projects-section" id="project-section" aria-labelledby="projects-title">
+        <div class="section-heading section-heading-row">
+          <div>
+            <p class="section-kicker">Selected work</p>
+            <h2 id="projects-title">Projects I’m <span>proud of.</span></h2>
+          </div>
+          <a class="text-link all-projects" href="projects.html">Explore project details <span aria-hidden="true">↗</span></a>
         </div>
-        <section class="page-subsection" aria-labelledby="skills-title">
-          <div class="section-heading">
-            <p class="section-kicker">What I’m learning and using</p>
-            <h2 id="skills-title">My <span>toolkit.</span></h2>
+
+        <div class="project-grid">
+          <article class="project-tile project-card">
+            <div class="project-art calculator-art" aria-hidden="true">
+              <div class="mini-window"><div class="mini-dots"><i></i><i></i><i></i></div><div class="calc-display"><span>sin ( π ÷ 2 )</span><strong>1</strong></div><div class="calc-keys"><b>AC</b><b>±</b><b>%</b><b>÷</b><b>7</b><b>8</b><b>9</b><b>×</b><b>4</b><b>5</b><b>6</b><b>−</b><b>1</b><b>2</b><b>3</b><b>+</b></div></div>
+              <span class="art-label">01 / INTERACTIVE TOOL</span>
+            </div>
+            <div class="project-info">
+              <div class="project-title-line"><h3><a href="https://github.com/Ishan13-dev/Scientific-Calculator" target="_blank" rel="noreferrer">Advanced Scientific Calculator <span aria-hidden="true">↗</span></a></h3><span class="project-number">01</span></div>
+              <p>A responsive scientific calculator with calculation history, keyboard shortcuts and a dark mode.</p>
+              <div class="tag-list"><span>HTML</span><span>CSS</span><span>JavaScript</span></div>
+              <div class="project-links"><a href="https://github.com/Ishan13-dev/Scientific-Calculator" target="_blank" rel="noreferrer">Source code <span aria-hidden="true">↗</span></a><a href="https://ishan13-dev.github.io/Scientific-Calculator/" target="_blank" rel="noreferrer">Live demo <span aria-hidden="true">↗</span></a></div>
+            </div>
+          </article>
+
+          <article class="project-tile project-card">
+            <div class="project-art portfolio-art" aria-hidden="true">
+              <div class="portfolio-window"><div class="window-bar"><i></i><i></i><i></i></div><div class="portfolio-preview"><span class="preview-mark">IV</span><span class="preview-line preview-line-long"></span><span class="preview-line preview-line-short"></span><span class="preview-button"></span><span class="preview-orb"></span></div></div>
+              <span class="art-label">02 / PERSONAL WEBSITE</span>
+            </div>
+            <div class="project-info">
+              <div class="project-title-line"><h3><a href="https://github.com/Ishan13-dev/Portfolio" target="_blank" rel="noreferrer">Developer Portfolio <span aria-hidden="true">↗</span></a></h3><span class="project-number">02</span></div>
+              <p>A responsive portfolio for sharing my skills, experience, projects and journey as a developer.</p>
+              <div class="tag-list"><span>React</span><span>Tailwind CSS</span><span>Vite</span></div>
+              <div class="project-links"><a href="https://github.com/Ishan13-dev/Portfolio" target="_blank" rel="noreferrer">Source code <span aria-hidden="true">↗</span></a><a href="https://iv-portfolio-sandy.vercel.app/" target="_blank" rel="noreferrer">Live site <span aria-hidden="true">↗</span></a></div>
+            </div>
+          </article>
+
+          <article class="project-tile project-card">
+            <div class="project-art nlp-art" aria-hidden="true">
+              <div class="nlp-window"><div class="nlp-heading"><span class="pulse-ring"></span><span>Text analysis</span><span class="nlp-menu">•••</span></div><div class="nlp-copy"><span></span><span></span><span></span></div><div class="sentiment-label">MODEL INSIGHT</div><div class="sentiment-bars"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div><div class="sentiment-legend"><span>NEUTRAL</span><strong>72%</strong></div></div>
+              <span class="art-label">03 / AI + LANGUAGE</span>
+            </div>
+            <div class="project-info">
+              <div class="project-title-line"><h3><a href="https://github.com/Ishan13-dev/mental_health_nlp" target="_blank" rel="noreferrer">Mental Health NLP Analyzer <span aria-hidden="true">↗</span></a></h3><span class="project-number">03</span></div>
+              <p>An NLP application exploring mental-health-related patterns in text with an interpretable ML classification.</p>
+              <div class="tag-list"><span>Python</span><span>NLP</span><span>Machine Learning</span></div>
+              <div class="project-links"><a href="https://github.com/Ishan13-dev/mental_health_nlp" target="_blank" rel="noreferrer">Source code <span aria-hidden="true">↗</span></a><a href="https://ishan7031mentalhealth00nlp.streamlit.app/" target="_blank" rel="noreferrer">Live demo <span aria-hidden="true">↗</span></a></div>
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <section class="contact-section" id="contact-section" aria-labelledby="contact-title">
+        <div class="contact-orbit" aria-hidden="true"></div>
+        <div class="contact-content">
+          <p class="section-kicker">Have a project in mind?</p>
+          <h2 id="contact-title">Let’s build something <span>meaningful.</span></h2>
+          <p>I’m always interested in learning, collaborating and exploring ideas that make a difference.</p>
+          <div class="hero-actions contact-actions">
+            <a class="button button-primary" href="https://wa.me/918960825640?text=Hi%20Ishan%2C%20I%20saw%20your%20portfolio." target="_blank" rel="noopener noreferrer">Message me on WhatsApp <span aria-hidden="true">↗</span></a>
+            <a class="button button-secondary" href="contact.html">More ways to connect <span aria-hidden="true">→</span></a>
           </div>
-          <div class="skill-groups">
-            <article class="skill-group"><span class="info-icon" aria-hidden="true">⌘</span><h3>Programming</h3><p>Python · C · C++ · JavaScript</p></article>
-            <article class="skill-group"><span class="info-icon" aria-hidden="true">▤</span><h3>Web development</h3><p>React · HTML · CSS · Tailwind CSS · Node.js · REST APIs</p></article>
-            <article class="skill-group"><span class="info-icon" aria-hidden="true">✳</span><h3>Core interests</h3><p>Machine learning · NLP · DSA · SQL · software development</p></article>
-            <article class="skill-group"><span class="info-icon" aria-hidden="true">↗</span><h3>Build &amp; ship</h3><p>Git · GitHub · Vite · ESLint · VS Code · Vercel</p></article>
-          </div>
-        </section>
+          <a class="text-link home-profile-link" href="https://github.com/Ishan13-dev" id="profile-link" target="_blank" rel="noopener noreferrer">Visit my GitHub profile <span aria-hidden="true">↗</span></a>
+        </div>
       </section>
     </main>
+
     <footer class="site-footer">
-      <a class="brand" href="#page-top" aria-label="Back to top">IV<span>.</span></a>
+      <a class="brand" href="#welcome-section" aria-label="Back to top">IV<span>.</span></a>
       <p>Designed &amp; built by Ishan Verma <span aria-hidden="true">·</span> © 2026</p>
       <a class="footer-link" href="contact.html">Connect <span aria-hidden="true">↗</span></a>
     </footer>
