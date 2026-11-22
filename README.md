@@ -86,9 +86,3 @@ A selection of experiments and practice repositories, kept separate from my main
 - **Portfolio:** [Personal website](https://ishan13-dev.github.io/Profile/)
 
 <sub>Learning continuously, analyzing thoughtfully, and building one project at a time.</sub>
-
-
-## DSA Practice in C & C++
-A beginner-friendly placement coding practice set from a 40-question preparation sheet. Includes separate C and C++ programs for the first 10 questions; the remaining solutions are planned in batches.
-
-**[Open the practice index →](dsa-practice-c-cpp/README.md)**
