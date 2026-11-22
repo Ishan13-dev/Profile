@@ -32,10 +32,6 @@ I’m developing my skills in data analytics, Python, SQL, and machine learning.
 #### [Retail Sales Analysis — Python, SQL & Pandas](https://github.com/Ishan13-dev/Profile/tree/main/analytics-projects/retail-sales-analysis)
 Analyze a fictional retail dataset to explore revenue, profit, monthly trends, category performance, and regional results. Dataset is synthetic and clearly identified as such.
 
-**Preview mockup** (illustrative, not a captured Power BI report):
-
-![Retail sales analysis preview](assets/project-previews/retail-sales.svg)
-
 **Tools:** Python · Pandas · SQL · Matplotlib  
 **[View project files →](analytics-projects/retail-sales-analysis/)**
 
@@ -45,8 +41,6 @@ Analyze a fictional retail dataset to explore revenue, profit, monthly trends, c
 
 #### [Mental Health NLP Analyzer](https://github.com/Ishan13-dev/mental_health_nlp)
 An educational NLP classification project comparing a baseline model and transformer-based approach, with evaluation and limitations documented.
-
-![Mental Health NLP Analyzer preview mockup](assets/project-previews/mental-health-nlp.svg)
 
 **Tools:** Python · NLP · Machine Learning · Streamlit  
 **[Open repository →](https://github.com/Ishan13-dev/mental_health_nlp)**
@@ -58,15 +52,11 @@ An educational NLP classification project comparing a baseline model and transfo
 #### [Developer Portfolio Website](https://github.com/Ishan13-dev/Portfolio)
 Responsive portfolio website built with React and Vite to present projects, skills, and experience.
 
-![Portfolio website preview mockup](assets/project-previews/portfolio-site.svg)
-
 **Tools:** React · Vite · CSS  
 **[Open repository →](https://github.com/Ishan13-dev/Portfolio)**
 
 #### [Scientific Calculator](https://github.com/Ishan13-dev/Scientific-Calculator)
 Interactive calculator with scientific functions, keyboard shortcuts, themes, and calculation history.
-
-![Scientific calculator preview mockup](assets/project-previews/scientific-calculator.svg)
 
 **Tools:** JavaScript · HTML · CSS  
 **[Open repository →](https://github.com/Ishan13-dev/Scientific-Calculator)**
