@@ -1,21 +1,19 @@
 # Ishan Verma
 
-**Computer Science & Engineering Student · Developer · Aspiring Data Analyst**
+**Computer Science & Engineering Student · Aspiring Data Analyst**
 
-I enjoy turning ideas into practical projects and learning through hands-on building. My current focus is strengthening my foundations in **Python, data analytics, machine learning, and web development**.
+I'm building practical skills in Python, SQL, data analytics, machine learning, and visualization—using projects to turn learning into demonstrable work.
 
 ---
 
 ## About
 
 - 🎓 B.Tech student in Computer Science & Engineering
-- 📊 Exploring data analytics, Python, and machine learning
-- 💻 Building projects to sharpen problem-solving and technical skills
-- 🌱 Always learning, iterating, and improving
+- 📊 Focused on data analytics, Python, SQL, and business insights
+- 🧠 Exploring machine learning and NLP
+- 🛠️ Learning by building, documenting, and iterating
 
 ## Portfolio
-
-Explore my projects, skills, and learning journey on my personal website:
 
 **[Visit my portfolio →](https://ishan13-dev.github.io/Profile/)**
 
@@ -23,33 +21,33 @@ Explore my projects, skills, and learning journey on my personal website:
 
 | Area | Tools |
 |---|---|
-| Languages | Python, JavaScript, HTML, CSS |
-| Data & ML | Pandas, NumPy, Scikit-learn, NLP |
-| Web | React, Vite, Tailwind CSS |
+| Programming | Python, SQL, JavaScript |
+| Data Analysis | Pandas, NumPy, Excel |
+| Visualization | Matplotlib, Power BI (learning) |
+| Machine Learning | Scikit-learn, NLP |
+| Web | React, Vite, HTML, CSS |
 | Tools | Git, GitHub, VS Code |
 
 ## Featured Projects
 
-### [Mental Health NLP Analyzer](https://github.com/Ishan13-dev/mental_health_nlp)
-Text classification project exploring NLP techniques and model evaluation across multiple mental-health-related categories. Includes a baseline model and a transformer-based approach.
+### 📊 [Retail Sales Analysis](https://github.com/Ishan13-dev/Profile/tree/main/analytics-projects/retail-sales-analysis)
+A beginner-friendly analytics project using Python, Pandas, SQL, and charts to explore revenue, profit, category performance, regional results, and monthly trends. Uses a clearly labelled synthetic dataset.
 
-### [Portfolio](https://github.com/Ishan13-dev/Portfolio)
-A responsive personal portfolio built with React and Vite to showcase projects, skills, and development work.
+### 🧠 [Mental Health NLP Analyzer](https://github.com/Ishan13-dev/mental_health_nlp)
+NLP classification project comparing a baseline approach and transformer-based model, with evaluation and limitations documented.
 
-### [Scientific Calculator](https://github.com/Ishan13-dev/Scientific-Calculator)
-A JavaScript scientific calculator featuring keyboard input, calculation history, themes, and scientific functions.
+### 💻 [Developer Portfolio](https://github.com/Ishan13-dev/Portfolio)
+Responsive React + Vite portfolio website.
 
-### [Web Design Project](https://github.com/Ishan13-dev/Advanced)
-A multi-page responsive website demonstrating front-end design and interactive elements.
-
----
+### 🧮 [Scientific Calculator](https://github.com/Ishan13-dev/Scientific-Calculator)
+JavaScript calculator with scientific functions, keyboard support, themes, and history.
 
 ## Connect
 
 - **GitHub:** [@Ishan13-dev](https://github.com/Ishan13-dev)
 - **LinkedIn:** [Ishan Verma](https://www.linkedin.com/in/ishanverma-dev/)
-- **Portfolio:** [ishan13-dev.github.io/Profile](https://ishan13-dev.github.io/Profile/)
+- **Portfolio:** [Personal website](https://ishan13-dev.github.io/Profile/)
 
 ---
 
-<sub>Building consistently. Learning deliberately. Growing one project at a time.</sub>
+<sub>Learning continuously. Building deliberately. Growing one project at a time.</sub>
