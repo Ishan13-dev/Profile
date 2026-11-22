@@ -1,6 +1,6 @@
 # Ishan Verma
 
-**B.Tech CSE Student · Aspiring Data Analyst**
+**B.Tech CSE Student · Data Analyst · Software Engineer · Computer Engineer · Developer **
 
 I’m developing my skills in data analytics, Python, SQL, and machine learning. I enjoy working with data, exploring patterns, and turning analysis into clear, useful insights. I also keep building software and web projects as part of my learning journey.
 
