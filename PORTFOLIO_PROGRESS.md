@@ -84,3 +84,9 @@ The Power BI report itself (`.pbix`) has **not** been created yet; that requires
 - Updated homepage copy/title and hero identity to Data Analyst.
 - Updated projects page to feature Retail Sales Analysis first and make analytics focus clear.
 - Preview images are **illustrative mockups**, not actual screenshots captured from the running projects. Real project screenshots can be substituted later.
+
+
+## Project preview removal (November 22, 2026)
+- Removed the illustrative mockup images from the README and Projects page.
+- Deleted the four mockup SVG files from the repository.
+- Project sections now use text, technology tags, and direct repository/demo links. Authentic screenshots can be added later if available.
