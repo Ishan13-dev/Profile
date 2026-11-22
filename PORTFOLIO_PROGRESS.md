@@ -106,3 +106,10 @@ The Power BI report itself (`.pbix`) has **not** been created yet; that requires
 - Implemented separate C99 and C++17 source files for Questions 1–10 (20 standalone programs).
 - New standalone repository creation is not available through the connected GitHub actions, so this is currently a folder inside the existing `Profile` repository.
 - Questions 11–40 remain to be implemented in both languages.
+
+
+## DSA collection moved to dedicated repository (November 22, 2026)
+- Transferred the DSA practice README, C and C++ guides, and all 20 standalone solutions (Questions 1–10) to **Ishan13-dev/DSA**.
+- Removed the DSA files and folder from this Profile repository to keep portfolio and coding practice separate.
+- Dedicated repo: https://github.com/Ishan13-dev/DSA
+- Remaining Questions 11–40 are still planned.
