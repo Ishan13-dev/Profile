@@ -98,3 +98,11 @@ The Power BI report itself (`.pbix`) has **not** been created yet; that requires
 - Implemented separate C99 and C++17 source files for Questions 1–10 (20 standalone programs).
 - New standalone repository creation is not available through the connected GitHub actions, so this is currently a folder inside the existing `Profile` repository.
 - Questions 11–40 remain to be implemented in both languages.
+
+
+## DSA Practice collection created (November 22, 2026)
+- Added `dsa-practice-c-cpp/` as a beginner-oriented practice collection based on the uploaded 40-question preparation sheet.
+- Cataloged all 40 questions in the index README.
+- Implemented separate C99 and C++17 source files for Questions 1–10 (20 standalone programs).
+- New standalone repository creation is not available through the connected GitHub actions, so this is currently a folder inside the existing `Profile` repository.
+- Questions 11–40 remain to be implemented in both languages.
