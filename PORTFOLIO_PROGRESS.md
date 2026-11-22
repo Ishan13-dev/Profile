@@ -64,3 +64,13 @@ The Power BI report itself (`.pbix`) has **not** been created yet; that requires
 - Sales data is synthetic and for practice/portfolio demonstration only.
 - The illustrative dashboard mockup may include figures not calculated from the dataset; use only verified figures in the final dashboard.
 - Do not claim a Power BI report has been built until the actual `.pbix` is created and tested.
+
+
+## README and portfolio positioning update (November 22, 2026)
+- Repositioned README title and summary to **Aspiring Data Analyst** (rather than Software Engineer / Computer Engineer branding).
+- Organized projects into Data Analytics, Machine Learning & NLP, Web & Software, and Other Learning/Practice.
+- Added project-preview illustrations under the featured project sections for Retail Sales Analysis, Mental Health NLP Analyzer, Developer Portfolio, and Scientific Calculator.
+- Added a fuller list of practice repositories so the projects aren't mixed together or hidden.
+- Updated homepage copy/title and hero identity to Data Analyst.
+- Updated projects page to feature Retail Sales Analysis first and make analytics focus clear.
+- Preview images are **illustrative mockups**, not actual screenshots captured from the running projects. Real project screenshots can be substituted later.
